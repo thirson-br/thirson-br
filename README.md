@@ -5,7 +5,7 @@
 ![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)&nbsp;
 
 
-<h3 align="center">Texto a definir</h3>
+<p align="center"><img width="100%" src="https://github.com/thirson-br/thirson-br/blob/main/images/DataScience.jpeg" </p>
 
 <h3>Linguagens e Ferramentas</h3>
 
