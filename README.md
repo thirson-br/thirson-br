@@ -28,7 +28,7 @@
 📈 **Engenharia de Dados:**
 
 ![AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws)&nbsp;
-![spyder](https://img.shields.io/badge/-Spyder-232F3E?style=flat&logo=spyder%20ide)&nbsp;
+![spyder](https://img.shields.io/badge/Apache%20Spark-232F3E?style=flat-square&logo=apachespark)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Colab](https://img.shields.io/badge/-Googlecolab-05122A?style=flat&logo=googlecolab)
 
