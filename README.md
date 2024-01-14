@@ -7,7 +7,16 @@
 
 <p align="center"><img width="100%" src="https://github.com/thirson-br/thirson-br/blob/main/images/DataScience.jpeg" </p>
 
-<h3>Linguagens e Ferramentas</h3>
+<br>
+<p>
+Processo de Engenharia de dados com foco em coleta de dados, limpeza e pré-processamento estruturação, integração de dados, modelagem, pipelines, armazenamento e otimização de desempenho.
+</p>
+
+Data Engineering process focusing on data collection, cleaning and pre-processing structuring, data integration, modeling, pipelines, storage and performance optimization.
+
+<br>
+
+## 🛠️ Linguagens e Ferramentas
 
 <br>
 
